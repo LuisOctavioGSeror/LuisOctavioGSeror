@@ -1,4 +1,4 @@
-![profile gif](githubProfile.gif)
+<img src="githubProfile.gif" width="800" height="300">
 
 # Hi there!! 👋
 
