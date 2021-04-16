@@ -39,6 +39,8 @@
 
 ## Operating systems i have experience with: 
 
+<p float="left">
+
 <img src="icons/windows.svg" width="50" height="50">
 
 <img src="icons/manjaro.svg" width="50" height="50">
@@ -55,10 +57,13 @@
 
 <img src="icons/macos.svg" width="50" height="50">
 
+<p>
 
 ## My currently favorite repositories:
 
 &emsp;&emsp;&emsp;&emsp;**Calculator** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Fast-Pong**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Harmonie-Web-site**
+
+<p float="left">
 
 <img src="calculator.gif" width="200" height="150"> 
 
@@ -66,6 +71,7 @@
 
 <img src="harmonie6.gif" width="200" height="150">
 
+<p>
 
 
 &emsp;&emsp;&ensp;**(Pyhton and Kivy)** &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;**(Only Java)**&emsp;&emsp;&emsp;&emsp;**(Only HTML, CSS and JS)**
