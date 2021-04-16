@@ -74,7 +74,7 @@
 <p>
 
 
-&emsp;&emsp;&ensp;&emsp;&emsp;**(Pyhton and Kivy)** &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;**(Only Java)**&emsp;&emsp;&emsp;&emsp;**(Only HTML, CSS and JS)**
+&emsp;&emsp;&ensp;&emsp;&emsp;**(Pyhton and Kivy)** &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;**(Only Java)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**(Only HTML, CSS and JS)**
 
 ## What am i currently up to:
 
