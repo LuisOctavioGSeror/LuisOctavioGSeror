@@ -61,7 +61,7 @@
 
 ## My currently favorite repositories:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Calculator** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;**Fast-Pong**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Harmonie-Web-site**
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Calculator** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;**Fast-Pong**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Harmonie-Web-site**
 
 <p float="left">
 
@@ -74,7 +74,7 @@
 <p>
 
 
-&emsp;&emsp;&ensp;**(Pyhton and Kivy)** &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;**(Only Java)**&emsp;&emsp;&emsp;&emsp;**(Only HTML, CSS and JS)**
+&emsp;&emsp;&ensp;&emsp;&emsp;**(Pyhton and Kivy)** &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;**(Only Java)**&emsp;&emsp;&emsp;&emsp;**(Only HTML, CSS and JS)**
 
 ## What am i currently up to:
 
