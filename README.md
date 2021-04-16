@@ -14,6 +14,7 @@
 * Fell free to reach me for any reason ;)
 
 ## Languages and Tools 
+<p float="left"> 
 
 <img src="icons/c.svg" width="50" height="50">
 
@@ -33,6 +34,7 @@
 
 <img src="icons/eclipseide.svg" width="50" height="50">
 
+</p>
 
 
 ## Operating systems i have experience with: 
