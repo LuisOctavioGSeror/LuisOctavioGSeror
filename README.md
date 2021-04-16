@@ -1,4 +1,4 @@
-<img src="githubProfile.gif" width="800" height="300">
+<img src="githubProfile.gif" width="800" height="200">
 
 # Hi there!! 👋
 
@@ -65,11 +65,11 @@
 
 <p float="left">
 
-<img src="calculator.gif" width="200" height="150"> 
+<img src="calculator.gif" width="250" height="150"> 
 
-<img src="Fast-Pong.gif" width="200" height="150">
+<img src="Fast-Pong.gif" width="250" height="150">
 
-<img src="harmonie6.gif" width="200" height="150">
+<img src="harmonie6.gif" width="250" height="150">
 
 <p>
 
