@@ -7,11 +7,11 @@
 
 ## :book: About me:
 
-:school: &emsp; I am a fourth year Computer engineering grad student at Universidade Federal de Mato Grosso (UFMT) in Brasil.
+:school: &nbsp; I am a fourth year Computer engineering grad student at Universidade Federal de Mato Grosso (UFMT) in Brasil.
 
-:grin: &emsp; I'm a very open person, fell free fork or use any of my projects :)
+:grin: &nbsp; I'm a very open person, fell free fork or use any of my projects :)
 
-:v: &emsp; Fell free to follow me or <a href="#reach_me">reach me</a> for any reason ;)
+:v: &nbsp; Fell free to follow me or <a href="#reach_me">reach me</a> for any reason ;)
 
 ## Languages and Tools   
 <p float="left">             
@@ -78,27 +78,27 @@
 
 ## What am i currently up to:
 
-:zap: &emsp;I'm making web-applications with pure HTML, CSS an JS (no angular or react like frameworks for now) as a freelancer (some times) and also learning more and more about the web-development world every day.
+:zap: &nbsp;I'm making web-applications with pure HTML, CSS an JS (no angular or react like frameworks for now) as a freelancer (some times) and also learning more and more about the web-development world every day.
 
-:books: &emsp; I'm slowly learning about back-end using Node.js, PHP, MySQL.
+:books: &nbsp; I'm slowly learning about back-end using Node.js, PHP, MySQL.
 
-:video_game: &emsp; I'm currently learning game development at danki code platform, where i'm learning to make since simple 2d games (such as pong and mario) with java, to complex 3d games with c++ and build my own game engines, and learn how to use the big game engines out there such as Unity and Unreal.
+:video_game: &nbsp; I'm currently learning game development at danki code platform, where i'm learning to make since simple 2d games (such as pong and mario) with java, to complex 3d games with c++ and build my own game engines, and learn how to use the big game engines out there such as Unity and Unreal.
 
-:computer: &emsp; Learning to make desktop applications with Kivy, gtk and others graphical libraries.
+:computer: &nbsp; Learning to make desktop applications with Kivy, gtk and others graphical libraries.
 
-:rocket: &emsp; Working in projects with 3d printing and robotics.
+:rocket: &nbsp; Working in projects with 3d printing and robotics.
 
 <div id="reach_me">
 
 ## What am I looking for:
 
-:pray: &emsp;I'm looking for a remote internship in US (web development, game development, Data engeneering or even hardware engeneering).
+:pray: &nbsp;I'm looking for a remote internship in US (web development, game development, Data engeneering or even hardware engeneering).
 
-:metal: &emsp;Colaborate with open source projects.
+:metal: &nbsp;Colaborate with open source projects.
 
-:atm: &emsp;Learn how to make firmwares and embaded systems softwares with a graphical interface using libraries such as Lvgl using C, in the near future. 
+:atm: &nbsp;Learn how to make firmwares and embaded systems softwares with a graphical interface using libraries such as Lvgl using C, in the near future. 
 
-:bar_chart: &emsp;I am plannig to learn more about artifial intelligence, machine learning,data science and NLP in the near future.  
+:bar_chart: &nbsp;I am plannig to learn more about artifial intelligence, machine learning,data science and NLP in the near future.  
 
 
 
