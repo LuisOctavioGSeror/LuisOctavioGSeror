@@ -1,1 +1,61 @@
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>CSS3 icon</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="css3.svg"
+   inkscape:version="1.0.2 (394de47547, 2021-03-26)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CSS3 icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1358"
+     inkscape:window-height="897"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="34.916667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="255"
+     inkscape:window-y="109"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0" />
+  <title
+     id="title2">CSS3 icon</title>
+  <path
+     d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z"
+     id="path4"
+     style="fill:#005fff;fill-opacity:1" />
+  <path
+     style="fill:#ffffff;stroke-width:0.0286396"
+     d="M 9.2792363,18.425901 C 7.7906922,17.960563 6.5668816,17.573949 6.5596573,17.566757 6.5459743,17.553136 6.2750647,14.042755 6.2731616,13.854415 l -0.00109,-0.107398 h 1.2887828 c 1.012058,0 1.2887327,0.0077 1.2885491,0.0358 -3.093e-4,0.04715 0.1781107,2.068677 0.1827861,2.071018 0.00198,9.93e-4 0.6702361,0.184064 1.4850074,0.406825 l 1.481402,0.405019 1.453097,-0.40099 c 0.799203,-0.220544 1.457242,-0.405135 1.462309,-0.410201 0.0051,-0.0051 0.08557,-0.748743 0.178905,-1.652613 0.09333,-0.903871 0.177446,-1.698175 0.186922,-1.76512 l 0.01723,-0.121718 H 12.20492 9.1127737 l -0.01706,-0.136038 c -0.024058,-0.191847 -0.217432,-2.2870514 -0.217432,-2.3558744 0,-0.056238 0.03135,-0.056844 3.3145503,-0.064055 l 3.31455,-0.00728 0.120791,-1.274463 C 15.694608,7.7763723 15.7496,7.1609785 15.750377,7.1097852 l 0.0014,-0.093079 h -5.054893 c -2.7801905,0 -5.0556839,-0.00322 -5.0566515,-0.00716 -0.00956,-0.038908 -0.2153002,-2.5873803 -0.2095081,-2.5951493 0.00427,-0.00573 2.9597632,-7.917e-4 6.5677536,0.010981 l 6.559981,0.021405 2.01e-4,0.074938 c 2.33e-4,0.084201 -1.165106,12.9250841 -1.189697,13.1093321 l -0.01574,0.117926 -2.640818,0.752389 c -1.452451,0.413814 -2.660151,0.756487 -2.683778,0.761496 -0.02363,0.005 -1.26086,-0.371625 -2.7494037,-0.836963 z"
+     id="path831" />
+</svg>
