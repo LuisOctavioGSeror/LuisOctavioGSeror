@@ -7,16 +7,16 @@
 
 ## :book: About me:
 
-* I am a fourth year Computer engineering grad student at Universidade Federal de Mato Grosso (UFMT) in Brasil.
+:school: I am a fourth year Computer engineering grad student at Universidade Federal de Mato Grosso (UFMT) in Brasil.
 
-* I'm a very open person, fell free to fork or use any of my projects :)
+:grin: I'm a very open person, fell free fork or use any of my projects :)
 
-* Fell free to reach me for any reason ;)
+:v: Fell free to follow me or <a href="#reach_me">reach me</a> for any reason ;)
 
-## Languages and Tools 
-<p float="left"> 
-
-<img src="icons/c.svg" width="50" height="50">
+## Languages and Tools   
+<p float="left">             
+ 
+<img src="icons/c.svg" width="50" height="50">   
 
 <img src="icons/java.svg" width="50" height="50">
 
@@ -41,7 +41,7 @@
 
 <p float="left">
 
-<img src="icons/windows.svg" width="50" height="50">
+<img src="icons/windows.svg" width="50" height="50"> 
 
 <img src="icons/manjaro.svg" width="50" height="50">
 
@@ -78,25 +78,27 @@
 
 ## What am i currently up to:
 
-* I'm making web-applications with pure HTML, CSS an JS (no angular or react like frameworks for now) as a freelancer (some times) and also learning more and more about the web-development world every day.
+:zap: I'm making web-applications with pure HTML, CSS an JS (no angular or react like frameworks for now) as a freelancer (some times) and also learning more and more about the web-development world every day.
 
-* I'm slowly learning about back-end using Node.js, PHP, MySQL.
+:books: I'm slowly learning about back-end using Node.js, PHP, MySQL.
 
-* I'm currently learning game development at danki code platform, where i'm learning to make since simple 2d games (such as pong and mario) with java, to complex 3d games with c++ and build my own game engines, and learn how to use the big game engines out there such as Unity and Unreal.
+:video_game: I'm currently learning game development at danki code platform, where i'm learning to make since simple 2d games (such as pong and mario) with java, to complex 3d games with c++ and build my own game engines, and learn how to use the big game engines out there such as Unity and Unreal.
 
-* Learning to make desktop applications with Kivy, gtk and others graphical libraries.
+:computer: Learning to make desktop applications with Kivy, gtk and others graphical libraries.
 
-* Working in projects with 3d printing and robotics.
+:rocket: Working in projects with 3d printing and robotics.
 
 ## What am I looking for:
 
-* I'm looking for a remote internship in US (web development, game development, Data engeneering or even hardware engeneering).
+:pray: I'm looking for a remote internship in US (web development, game development, Data engeneering or even hardware engeneering).
 
-* Colaborate with open source projects.
+:metal: Colaborate with open source projects.
 
-* Learn how to make firmwares and embaded systems softwares with a graphical interface using libraries such as Lvgl using C, in the near future. 
+:atm: Learn how to make firmwares and embaded systems softwares with a graphical interface using libraries such as Lvgl using C, in the near future. 
 
-* I am plannig to learn more about artifial intelligence, machine learning,data science and NLP in the near future.  
+:bar_chart: I am plannig to learn more about artifial intelligence, machine learning,data science and NLP in the near future.  
+
+<div id="reach_me">
 
 ## How to reach me:
 
@@ -108,7 +110,7 @@
 
 [<img src="icons/linkedin.svg" width="100" height="100">](https://www.linkedin.com/in/luisoctaviogs/) 
 
-
+</div>
 
 <!--
 **LuisOctavioGSeror/LuisOctavioGSeror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
