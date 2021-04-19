@@ -1,4 +1,4 @@
-<img src="https://www.dasistnichtbereit.com/profile.gif" width="800" height="200">
+<img src="profile.gif" width="800" height="200">
 
 # Hi there!! 👋
 
