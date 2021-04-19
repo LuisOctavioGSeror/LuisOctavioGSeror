@@ -1,4 +1,4 @@
-<img src="profile3.gif" width="800" height="200">
+<img src="githubProfile.gif" width="800" height="200">
 
 # Hi there!! 👋
 
