@@ -37,7 +37,7 @@
 </p>
 
 
-## Operating systems i have experience with: 
+## Operating systems i have more experience with: 
 
 <p float="left">
 
