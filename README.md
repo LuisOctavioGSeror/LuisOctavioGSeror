@@ -37,7 +37,7 @@
 </p>
 
 
-## Operating systems that i have more experience with: 
+## Operating systems that I have more experience with: 
 
 <p float="left">
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&ensp;&emsp;&emsp;**(Pyhton and Kivy)** &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**(Only Java)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**(Only HTML, CSS and JS)**
 
-## What am i currently up to:
+## What am I currently up to:
 
 :zap: &nbsp;I'm making web-applications with pure HTML, CSS an JS (no angular or react like frameworks for now) as a freelancer (some times) and also learning more and more about the web-development world every day.
 
