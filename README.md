@@ -92,8 +92,7 @@
 
 ## What am I looking for:
 
-:pray: &nbsp;I'm looking for a remote internship in US (web development, game development, Data engeneering or even hardware engeneering).
-
+ 
 :metal: &nbsp;Colaborate with open source projects.
 
 :atm: &nbsp;Learn how to make firmwares and embaded systems softwares with a graphical interface using libraries such as Lvgl using C, in the near future. 
